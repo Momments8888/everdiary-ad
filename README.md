@@ -6,3 +6,5 @@
 
 To download: open a file, then tap the download button (downward arrow).
 - `EverDiary_long_new_voice.mp4` — long demo (84s) with the "What did I do last Thursday?" question re-voiced (ElevenLabs River)
+- `everdiary_last_thursday.mp4` — 29.7-second ad "What did I do last Thursday?" (1080x1920, 30 fps, app reads the recap aloud, burned-in captions, -14 LUFS)
+- `everdiary_last_thursday_thumb.png` — 1080x1920 thumbnail for that ad
