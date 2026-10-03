@@ -11,7 +11,4 @@ To download: open a file, then tap the download button (downward arrow).
 - `EverDiary_last_thursday_30s.mp4` — 30s "What did I do last Thursday?" ad (1080x1920, 30 fps)
 - `everdiary_heatmap_30s.mp4`: 31.7-second Memory Heatmap ad (1080x1920, 30 fps). You tap Sep 24 and the app reads two lines aloud; burned-in captions, -14 LUFS
 - `everdiary_heatmap_thumb.png`: 1080x1920 thumbnail for that ad (heatmap grid with Sep 24 outlined)
-- `everdiary_christmas_lights_16s_vo.mp4`: 16.4-second "Where did I put the Christmas lights?" ad (1080x1920, 30 fps). Hook A, AI placeholder voice-over, burned-in captions, -14 LUFS
-- `everdiary_christmas_lights_16s_novo.mp4`: same cut with no voice-over (silent track) and alternate captions, for adding a trending sound in TikTok
-- `everdiary_christmas_lights_endcard.png`: 1080x1920 end card ("free on Google Play & App Store" / "Tell it once. Ask it anything later.")
-- `everdiary_christmas_lights_19s_vo.mp4`: revised 19.4-second Christmas lights ad (1080x1920, 30 fps) with garage and junk-drawer B-roll inserts, official store badges on a 2.5 s end card, greeting removed from the opening shot; AI placeholder voice-over, -14 LUFS
+- `everdiary_christmas_lights_19s_vo.mp4`: 19.4-second "Where did I put the Christmas lights?" ad (1080x1920, 30 fps). Garage and junk-drawer B-roll inserts, official store badges on a 2.5 s end card, greeting removed from the opening shot; AI placeholder voice-over ("…but I told EverDiary back in January" script), -14 LUFS
