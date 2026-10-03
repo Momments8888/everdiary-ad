@@ -14,3 +14,4 @@ To download: open a file, then tap the download button (downward arrow).
 - `everdiary_christmas_lights_16s_vo.mp4`: 16.4-second "Where did I put the Christmas lights?" ad (1080x1920, 30 fps). Hook A, AI placeholder voice-over, burned-in captions, -14 LUFS
 - `everdiary_christmas_lights_16s_novo.mp4`: same cut with no voice-over (silent track) and alternate captions, for adding a trending sound in TikTok
 - `everdiary_christmas_lights_endcard.png`: 1080x1920 end card ("free on Google Play & App Store" / "Tell it once. Ask it anything later.")
+- `everdiary_christmas_lights_19s_vo.mp4`: revised 19.4-second Christmas lights ad (1080x1920, 30 fps) with garage and junk-drawer B-roll inserts, official store badges on a 2.5 s end card, greeting removed from the opening shot; AI placeholder voice-over, -14 LUFS
