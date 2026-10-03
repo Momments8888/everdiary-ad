@@ -11,3 +11,4 @@ To download: open a file, then tap the download button (downward arrow).
 - `EverDiary_last_thursday_30s.mp4` — 30s "What did I do last Thursday?" ad (1080x1920, 30 fps)
 - `everdiary_heatmap_30s.mp4`: 31.7-second Memory Heatmap ad (1080x1920, 30 fps). You tap Sep 24 and the app reads two lines aloud; burned-in captions, -14 LUFS
 - `everdiary_heatmap_thumb.png`: 1080x1920 thumbnail for that ad (heatmap grid with Sep 24 outlined)
+- `everdiary_christmas_lights_19s_vo.mp4`: 19.9-second "Where did I put the Christmas lights?" ad (1080x1920, 30 fps). Garage and junk-drawer B-roll inserts, "it KNEW." punchline beat, official store badges with "Free to download" on a 2.5 s end card, greeting removed from the opening shot; AI placeholder voice-over ("…but I told EverDiary back in January" script), -14 LUFS
